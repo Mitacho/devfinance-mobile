@@ -16,10 +16,6 @@ A React Native version of [DevFinance](https://mitacho.github.io/devfinance)
 
 ## Android Developer Instructions
 
-You need to generate an upload key: https://reactnative.dev/docs/signed-apk-android#generating-an-upload-key
-
-After that, place the generated ``key.keystore`` file under the ``android/app directory`` in the project folder.
-
 **clone and install dependencies**
 
 ```bash
