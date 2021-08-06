@@ -8,7 +8,7 @@
 
 A React Native version of [DevFinance](https://mitacho.github.io/devfinance)
 
-## Screenshots
+## Layout
 
 ![DevFinance - Home Screen](/.github/home.svg)
 
